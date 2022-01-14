@@ -1,6 +1,5 @@
 # LaeNet: A Novel Lightweight Multitask CNN  
 
-------
 
 By Wei Liu, Xingyu Chen, Jiangjun Ran*, Lin Liu, Qiang Wang , Linyang Xin and Gang Li  
 
