@@ -2,18 +2,17 @@
 The **AN**alyst of **G**ravity **E**stimation with **L**ow-orbit **S**atellites:<br>
 The **P**ost-processing **S**ystem of **S**patial-domain and **S**pectral-domain
 ----
-
 ## Main function
 ANGELS-PS3 is a software that integrates various post-processing methods for GRACE data.
 ### Pre-preprocessing
 In data pre-preprocessing, PS3 can carry out: <br>
-(1)low order coefficient replacement; (2)static field deduction.<br>
+	(1)low order coefficient replacement; (2)static field deduction.<br>
 ### Post-processing
 ANGELS-PS3 can be divided into two types of post-processing: spatial post-processing and Spectral-domain post-processing.  <br>
 Spectral-domain post-processing includes: <br>
-(1)Mascon algorithm; (2)Slepian Function; (3)Forward Modelling.<br>
-frequency-domain post-processing includes: <br>
-(1)Gaussian filter; (2)Fan filter; (3)Swenson filter; (4)PnMm filter; (5)DDK filter.<br>
+	(1)Mascon algorithm; (2)Slepian Function; (3)Forward Modelling.<br>
+Frequency-domain post-processing includes: <br>
+	(1)Gaussian filter; (2)Fan filter; (3)Swenson filter; (4)PnMm filter; (5)DDK filter.<br>
 ### Output
 Finally, the equivalent water height or the spherical harmonic coefficient after treatment can be output.
 	
