@@ -1,6 +1,6 @@
 # ANGELS-PS<sup>3</sup>
 The **AN**alyst of **G**ravity **E**stimation with **L**ow-orbit **S**atellites:<br>
-The **P**ost-processing **S**ystem of **S**patial-domain and **S**pectral-domain
+The **P**ost-processing **S**ystem of **S**patial-domain and **S**pectral-domain<br>
 ----
 ## Main function
 ANGELS-PS3 is a software that integrates various post-processing methods for GRACE data.
