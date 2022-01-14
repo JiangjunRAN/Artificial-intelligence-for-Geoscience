@@ -1,8 +1,8 @@
 # ANGELS-PS<sup>3</sup>
 The **AN**alyst of **G**ravity **E**stimation with **L**ow-orbit **S**atellites:<br>
-The Post-processing System of Spatial-domain and Spectral-domain
+The **P**ost-processing **S**ystem of **S**patial-domain and **S**pectral-domain
 ## Main function
-ANGELS-PS3 is a software that integrates various post-processing methods for GRACE data.
+ANGELS-PS<sup>3</sup> is a software that integrates various post-processing methods for GRACE data.
 ### Pre-preprocessing
 In data pre-preprocessing, PS3 can carry out: <br>
 	(1)low order coefficient replacement; (2)static field deduction.<br>
