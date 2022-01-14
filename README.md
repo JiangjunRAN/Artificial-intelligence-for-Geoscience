@@ -18,11 +18,11 @@ frequency-domain post-processing includes:
 Finally, the equivalent water height or the spherical harmonic coefficient after treatment can be output.
 	
 ## Release time
-	We will release the code in June 2022.
+We will release the code in June 2022.
 
 ## Reference
-	Chen, J. L. ,  Wilson, C. R. ,  Tapley, B. D. , &  Grand, S. . (2007). Grace detects coseismic and postseismic deformation from the sumatra‐andaman earthquake. Geophysical Research Letters, 34(13), 173-180.
-	Kusche, J. ,  Schmidt, R. ,  Petrovic, S. , &  Rietbroek, R. . (2009). Decorrelated grace time-variable gravity solutions by gfz, and their validation using a hydrological model. Journal of Geodesy, 83(10), 903-913.
-	Swenson, S. , &  Wahr, J. . (2006). Post-processing removal of correlated errors in grace data. Geophysical Research Letters, 33(8), L08402.
-	Wahr, J. ,  Molenaar, M. , &  Bryan, F. . (1998). Time variability of the earth's gravity field: hydrological and oceanic effects and their possible detection using grace. Journal of Geophysical Research Solid Earth, 103(B12).
-	Zhang, Z. Z. ,  Chao, B. F. ,  Lu, Y. , &  Hsu, H. T. . (2009). An effective filtering for grace time-variable gravity: fan filter. Geophysical Research Letters, 36(17), L17311.
+Chen, J. L. ,  Wilson, C. R. ,  Tapley, B. D. , &  Grand, S. . (2007). Grace detects coseismic and postseismic deformation from the sumatra‐andaman earthquake. Geophysical Research Letters, 34(13), 173-180.
+Kusche, J. ,  Schmidt, R. ,  Petrovic, S. , &  Rietbroek, R. . (2009). Decorrelated grace time-variable gravity solutions by gfz, and their validation using a hydrological model. Journal of Geodesy, 83(10), 903-913.
+Swenson, S. , &  Wahr, J. . (2006). Post-processing removal of correlated errors in grace data. Geophysical Research Letters, 33(8), L08402.
+Wahr, J. ,  Molenaar, M. , &  Bryan, F. . (1998). Time variability of the earth's gravity field: hydrological and oceanic effects and their possible detection using grace. Journal of Geophysical Research Solid Earth, 103(B12).
+Zhang, Z. Z. ,  Chao, B. F. ,  Lu, Y. , &  Hsu, H. T. . (2009). An effective filtering for grace time-variable gravity: fan filter. Geophysical Research Letters, 36(17), L17311.
