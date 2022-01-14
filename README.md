@@ -10,7 +10,7 @@ Remote Sensing 2021
 
 To overcome the aforementioned difficulties, we propose a novel end-to-end lightweight multitask no-downsampling fully convolutional neural Network to segment area and extract edge from remote sensing images simultaneously. We name it the Lightweight area and edge Network (LaeNet) and its architecture is illustrated in Figure 1. Specifically, we firstly pack several no-downsampling and multichannel fully convolutional layers with ReLU activation function as a feature extractor to learn high-level feature map from multiband remote sensing imagery. Then, another no-downsampling and single-channel convolutional layer with Sigmoid activation function is applied to predict lake area and nonarea (land), thereby achieving area segmentation. Based on this, the difference between area segmentation and its spatial gradient is derived as the corresponding predictive edge.
 
-<img src="C:\Users\DELL\Desktop\其他事项\地空系\专利申请\专利\图片\模型结构.png" alt="模型结构" style="zoom:50%;" />
+<img src="Artificial-intelligence-for-Geoscience\Multi-Task-CNN\LAE_Net.png" alt="模型结构" style="zoom:50%;" />
 
 ### Install and use
 
