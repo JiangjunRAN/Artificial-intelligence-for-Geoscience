@@ -8,8 +8,8 @@ ANGELS-PS3 is a software that integrates various post-processing methods for GRA
 In data pre-preprocessing, PS3 can carry out: <br>
 	(1)low order coefficient replacement; (2)static field deduction.<br>
 ### Post-processing
-ANGELS-PS3 can be divided into two types of post-processing: <br>
-Spatial post-processing and Spectral-domain post-processing.  Spectral-domain post-processing includes: <br>
+ANGELS-PS3 can be divided into two types of post-processing: Spatial post-processing and Spectral-domain post-processing. <br>
+Spectral-domain post-processing includes: <br>
 	(1)Mascon algorithm; (2)Slepian Function; (3)Forward Modelling.<br>
 Frequency-domain post-processing includes: <br>
 	(1)Gaussian filter; (2)Fan filter; (3)Swenson filter; (4)PnMm filter; (5)DDK filter.<br>
